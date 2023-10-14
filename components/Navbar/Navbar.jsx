@@ -43,7 +43,7 @@ export default function Navbar() {
           <li className={classes.logo}>
             <Link href="/">
               {/* <img src={"/images/download.png"}></img> */}
-              <img src={"/images/olx-logo.JPG"}></img>
+              <img src={"/images/olx-logo.JPG"}/>
             </Link>
           </li>
           <a href="https://www.olx.com.pk/motors/" style={{ width: "100px" }}>
